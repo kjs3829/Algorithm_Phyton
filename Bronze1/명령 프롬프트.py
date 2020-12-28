@@ -1,4 +1,4 @@
-# Baekjon 1032 명령프롬프트
+# Baekjoon 1032 명령프롬프트
 
 N = int(input())
 l = [input() for _ in range(N)]
