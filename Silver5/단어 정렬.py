@@ -1,14 +1,15 @@
-# Baekjoon 1158 요세푸스 문제
-
+# BOJ 1181 단어 정렬
+# 정렬
 import sys
 
-N, K = map(int, sys.stdin.readline().split())
-p = list(range(1, N+1))
-r = []
-i = K-1
-while 1:
-    r.append(p.pop(i))
-    if not p:
-        break
-    i = (i+K-1) % len(p)
-print('<'+','.join(map(str, r)) + '>')
+voca_list = []
+N = int(sys.stdin.readline())
+for i in range(N):
+    voca_list.append(sys.stdin.readline().rstrip())
+set_voca_list = list(set(voca_list))
+sort_voca_list = []
+for j in set_voca_list:
+    sort_voca_list.append((len(j), j))
+sort_voca_list.sort()
+for len_voca, voca in sort_voca_list:
+    print(voca)
