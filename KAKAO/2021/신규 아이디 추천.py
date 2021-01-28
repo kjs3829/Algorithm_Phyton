@@ -1,7 +1,6 @@
 # 2021 KAKAO BLIND RECRUITMENT
 # 신규 아이디 추천
 # 정규표현식, 구현
-
 import sys
 import re
 
