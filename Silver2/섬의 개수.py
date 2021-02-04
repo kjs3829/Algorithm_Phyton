@@ -1,3 +1,5 @@
+# BOJ 4963 섬의 개수
+# 그래프 이론, DFS
 from sys import stdin
 from sys import setrecursionlimit
 
