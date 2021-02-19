@@ -1,4 +1,4 @@
-# 날자(YYYY M D)와 문제 번호 두개(p1 p2)를 입력하면 readme.md를 업데이트 시켜준다.
+# 날(YYYY M D)와 문제 번호 두개(p1 p2)를 입력하면 readme.md를 업데이트 시켜준다.
 
 def sentence(p1, p2):
     return '<br />[BOJ '+ p1 + '](https://www.acmicpc.net/problem/' + p1 + ')<br />[BOJ ' + p2 + '](https://www.acmicpc.net/problem/' + p2 + ')'
