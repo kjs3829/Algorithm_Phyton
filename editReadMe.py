@@ -3,8 +3,12 @@
 from datetime import datetime
 import re
 
-def sentence(p1, p2):
-    return '<br />[BOJ '+ p1 + '](https://www.acmicpc.net/problem/' + p1 + ')<br />[BOJ ' + p2 + '](https://www.acmicpc.net/problem/' + p2 + ')'
+
+def sentence(qlist):
+    sb = ''
+    for i in range(len(qlist)):
+        sb += '<br />[BOJ ' + qlist[i] + '](https://www.acmicpc.net/problem/' + qlist[i] + ')'
+    return sb
 
 
 # UserInterface
@@ -14,7 +18,7 @@ if n[0] == 'today':
     y, m, d = datetime.today().year, datetime.today().month, datetime.today().day
 else:
     y, m, d = n[0], n[1], n[2]
-p1, p2 = input("Enter the number of problem1 problem2 : ").split()
+ql = list(input("Enter question numbers : ").split())
 flag = False
 buffer = ''
 
@@ -28,7 +32,7 @@ with open("README.md", 'r+', encoding='utf-8') as fin:
         if flag:
             if line == '</p>\n':
                 flag = False
-            buffer += p.sub('**' + str(d) + '**' + sentence(p1, p2), line)
+            buffer += p.sub('**' + str(d) + '**' + sentence(ql), line)
             # - old version
             # 이미 작성된 날짜는 update가 불가능한 코드
             # buffer += line.replace('**' + str(d) + '**', '**' + str(d) + '**' + sentence(p1, p2))
