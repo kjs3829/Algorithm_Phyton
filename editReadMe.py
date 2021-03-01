@@ -25,7 +25,7 @@ buffer = ''
 # Service
 with open("README.md", 'r+', encoding='utf-8') as fin:
     data = fin.readlines()
-    p = re.compile('\*\*' + str(d) + '[^\|]*')
+    p = re.compile('\*\*' + str(d) + '\*\*' + '[^\|]*')
     for line in data:
         if line == '<!--' + str(y) + ' ' + str(m) + '-->\n':
             flag = True
