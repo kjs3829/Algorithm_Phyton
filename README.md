@@ -73,7 +73,7 @@
 
 | Sun  | Mon  | Thu  | Wed  | Thu  | Fri  | Sat  |
 | ----:| ----:| ----:| ----:| ----:| ----:| ----:|
-|      | **1**<br />[BOJ 1269](https://www.acmicpc.net/problem/1269)<br />[BOJ 15663](https://www.acmicpc.net/problem/15663)| **2** | **3** | **4** | **5** | **6** |
+|      | **1**<br />[BOJ 1269](https://www.acmicpc.net/problem/1269)<br />[BOJ 15663](https://www.acmicpc.net/problem/15663)| **2**<br />[BOJ 2579](https://www.acmicpc.net/problem/2579)<br />[BOJ 11726](https://www.acmicpc.net/problem/11726)| **3** | **4** | **5** | **6** |
 | **7** | **8** | **9** | **10** | **11** | **12** | **13** |
 | **14** | **15** | **16** | **17** | **18** | **19** | **20** |
 | **21** | **22** | **23** |**24** | **25** | **26** | **27** |
