@@ -73,7 +73,7 @@
 
 | Sun  | Mon  | Thu  | Wed  | Thu  | Fri  | Sat  |
 | ----:| ----:| ----:| ----:| ----:| ----:| ----:|
-|      | **1**<br />[BOJ 1269](https://www.acmicpc.net/problem/1269)<br />[BOJ 15663](https://www.acmicpc.net/problem/15663)| **2**<br />[BOJ 2579](https://www.acmicpc.net/problem/2579)<br />[BOJ 11726](https://www.acmicpc.net/problem/11726)| **3**<br />[BOJ 5397](https://www.acmicpc.net/problem/5397)<br />[BOJ 11399](https://www.acmicpc.net/problem/11399)| **4**<br />[BOJ 1535](https://www.acmicpc.net/problem/1535)<br />[BOJ 1931](https://www.acmicpc.net/problem/1931)| **5** | **6** |
+|      | **1**<br />[BOJ 1269](https://www.acmicpc.net/problem/1269)<br />[BOJ 15663](https://www.acmicpc.net/problem/15663)| **2**<br />[BOJ 2579](https://www.acmicpc.net/problem/2579)<br />[BOJ 11726](https://www.acmicpc.net/problem/11726)| **3**<br />[BOJ 5397](https://www.acmicpc.net/problem/5397)<br />[BOJ 11399](https://www.acmicpc.net/problem/11399)| **4**<br />[BOJ 1535](https://www.acmicpc.net/problem/1535)<br />[BOJ 1931](https://www.acmicpc.net/problem/1931)| **5** | **6**<br />[BOJ 13241](https://www.acmicpc.net/problem/13241)<br />[BOJ 14425](https://www.acmicpc.net/problem/14425)|
 | **7** | **8** | **9** | **10** | **11** | **12** | **13** |
 | **14** | **15** | **16** | **17** | **18** | **19** | **20** |
 | **21** | **22** | **23** |**24** | **25** | **26** | **27** |
