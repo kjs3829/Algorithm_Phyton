@@ -4,10 +4,11 @@
 
 1.1 할 수 있는데 까지 [BAEKJOON](https://www.acmicpc.net/)에서 하루 두 문제씩 풀기
 
-1.2 [Solved](https://solved.ac/) 랭크 Gold 달성하기
+~~1.2 Solved 랭크 Gold 달성하기(달성 완료)~~
 
 [Solved.ac 프로필](https://solved.ac/profile/kjs3829)   
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kjs3829)](https://solved.ac/kjs3829)
 
 ## 2. 진행도
 
