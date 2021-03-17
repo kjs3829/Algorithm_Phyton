@@ -4,7 +4,9 @@
 
 1.1 할 수 있는데 까지 [BAEKJOON](https://www.acmicpc.net/)에서 하루 두 문제씩 풀기
 
-~~1.2 Solved 랭크 Gold 달성하기(달성 완료)~~
+~~1.2 Solved 랭크 Gold 달성하기(2021.3.5 달성 완료)~~
+
+1.3 Gold 난이도 문제 누적 50개 이상 풀기(2021.3.17~)
 
 [Solved.ac 프로필](https://solved.ac/profile/kjs3829)   
 
@@ -76,7 +78,7 @@
 | ----:| ----:| ----:| ----:| ----:| ----:| ----:|
 |      | **1**<br />[BOJ 1269](https://www.acmicpc.net/problem/1269)<br />[BOJ 15663](https://www.acmicpc.net/problem/15663)| **2**<br />[BOJ 2579](https://www.acmicpc.net/problem/2579)<br />[BOJ 11726](https://www.acmicpc.net/problem/11726)| **3**<br />[BOJ 5397](https://www.acmicpc.net/problem/5397)<br />[BOJ 11399](https://www.acmicpc.net/problem/11399)| **4**<br />[BOJ 1535](https://www.acmicpc.net/problem/1535)<br />[BOJ 1931](https://www.acmicpc.net/problem/1931)| **5** | **6**<br />[BOJ 13241](https://www.acmicpc.net/problem/13241)<br />[BOJ 14425](https://www.acmicpc.net/problem/14425)|
 | **7** | **8** | **9** | **10** | **11** | **12** | **13** |
-| **14** | **15** | **16** | **17** | **18** | **19** | **20** |
+| **14** | **15** | **16** | **17**<br />[BOJ 3190](https://www.acmicpc.net/problem/3190)<br />[BOJ 14503](https://www.acmicpc.net/problem/14503)| **18** | **19** | **20** |
 | **21** | **22** | **23** |**24** | **25** | **26** | **27** |
 | **28** | **29** | **30** | **31**|  |  |  |
 
