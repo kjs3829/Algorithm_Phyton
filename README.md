@@ -2,11 +2,26 @@
 
 ## 1. 목표
 
-1.1 할 수 있는데 까지 [BAEKJOON](https://www.acmicpc.net/)에서 하루 두 문제씩 풀기
+~~1.1 할 수 있는데 까지 [BAEKJOON](https://www.acmicpc.net/)에서 하루 두 문제씩 풀기~~
 
 ~~1.2 Solved 랭크 Gold 달성하기(2021.3.5 달성 완료)~~
 
-1.3 Gold 난이도 문제 누적 50개 이상 풀기(2021.3.17~)
+1.3 Gold 난이도 문제 누적 50개 이상 풀기(7/50)
+
+<details><summary>해결한 Gold 난이도 문제</summary>
+<p>
+
+|번호|문제이름|난이도|
+|----:|----:|----:|
+|1005|[ACM Craft](https://www.acmicpc.net/problem/1005)|Gold 3|
+|1005|[내리막 길](https://www.acmicpc.net/problem/1520)|Gold 4|
+|1005|[Contact](https://www.acmicpc.net/problem/1013)|Gold 5|
+|1005|[보물섬](https://www.acmicpc.net/problem/2589)|Gold 5|
+|1005|[탈출](https://www.acmicpc.net/problem/3055)|Gold 5|
+|1005|[뱀](https://www.acmicpc.net/problem/3190)|Gold 5|
+|1005|[로봇 청소기](https://www.acmicpc.net/problem/14503)|Gold 5|
+</p>
+</details>
 
 [Solved.ac 프로필](https://solved.ac/profile/kjs3829)   
 
@@ -86,3 +101,24 @@
 
 </p>
 </details>
+
+<details><summary>2021년 4월</summary>
+<p>
+<!--2021 4-->
+
+|    Sun |    Mon |    Thu |    Wed |    Thu |    Fri |    Sat |
+| -----: | -----: | -----: | -----: | -----: | -----: | -----: |
+|        |        |        |        |  **1** |  **2** |  **3** |
+|  **4** |  **5** |  **6** |  **7** |  **8** |  **9**<br />[BOJ 3055](https://www.acmicpc.net/problem/3055)| **10** |
+| **11** | **12** | **13** | **14** | **15** | **16** | **17** |
+| **18** | **19** | **20** | **21** | **22** | **23** | **24** |
+| **25** | **26** | **27** | **28** | **29** | **30** |        |
+
+
+
+
+
+</p>
+</details>
+
+
