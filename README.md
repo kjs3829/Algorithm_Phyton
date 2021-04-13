@@ -14,12 +14,14 @@
 |번호|문제이름|난이도|
 |----:|----:|----:|
 |1005|[ACM Craft](https://www.acmicpc.net/problem/1005)|Gold 3|
-|1005|[내리막 길](https://www.acmicpc.net/problem/1520)|Gold 4|
-|1005|[Contact](https://www.acmicpc.net/problem/1013)|Gold 5|
-|1005|[보물섬](https://www.acmicpc.net/problem/2589)|Gold 5|
-|1005|[탈출](https://www.acmicpc.net/problem/3055)|Gold 5|
-|1005|[뱀](https://www.acmicpc.net/problem/3190)|Gold 5|
-|1005|[로봇 청소기](https://www.acmicpc.net/problem/14503)|Gold 5|
+|1520|[내리막 길](https://www.acmicpc.net/problem/1520)|Gold 4|
+|1013|[Contact](https://www.acmicpc.net/problem/1013)|Gold 5|
+|2589|[보물섬](https://www.acmicpc.net/problem/2589)|Gold 5|
+|3055|[탈출](https://www.acmicpc.net/problem/3055)|Gold 5|
+|3190|[뱀](https://www.acmicpc.net/problem/3190)|Gold 5|
+|14503|[로봇 청소기](https://www.acmicpc.net/problem/14503)|Gold 5|
+|5014|[스타트링크](https://www.acmicpc.net/problem/5014)|Gold 5|
+|5430|[AC](https://www.acmicpc.net/problem/5430)|Gold 5|
 </p>
 </details>
 
@@ -110,7 +112,7 @@
 | -----: | -----: | -----: | -----: | -----: | -----: | -----: |
 |        |        |        |        |  **1** |  **2** |  **3** |
 |  **4** |  **5** |  **6** |  **7** |  **8** |  **9**<br />[BOJ 3055](https://www.acmicpc.net/problem/3055)| **10** |
-| **11** | **12** | **13** | **14** | **15** | **16** | **17** |
+| **11** | **12** | **13**<br />[BOJ 5014](https://www.acmicpc.net/problem/5014)<br />[BOJ 5430](https://www.acmicpc.net/problem/5430)| **14** | **15** | **16** | **17** |
 | **18** | **19** | **20** | **21** | **22** | **23** | **24** |
 | **25** | **26** | **27** | **28** | **29** | **30** |        |
 
