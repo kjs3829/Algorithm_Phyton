@@ -22,6 +22,7 @@
 |14503|[로봇 청소기](https://www.acmicpc.net/problem/14503)|Gold 5|
 |5014|[스타트링크](https://www.acmicpc.net/problem/5014)|Gold 5|
 |5430|[AC](https://www.acmicpc.net/problem/5430)|Gold 5|
+|1916|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|Gold 5|
 </p>
 </details>
 
@@ -113,7 +114,7 @@
 |        |        |        |        |  **1** |  **2** |  **3** |
 |  **4** |  **5** |  **6** |  **7** |  **8** |  **9**<br />[BOJ 3055](https://www.acmicpc.net/problem/3055)| **10** |
 | **11** | **12** | **13**<br />[BOJ 5014](https://www.acmicpc.net/problem/5014)<br />[BOJ 5430](https://www.acmicpc.net/problem/5430)| **14** | **15** | **16** | **17** |
-| **18** | **19** | **20** | **21**<br />[BOJ 1058](https://www.acmicpc.net/problem/1058)<br />[BOJ 2193](https://www.acmicpc.net/problem/2193)| **22** | **23** | **24** |
+| **18** | **19** | **20** | **21**<br />[BOJ 1058](https://www.acmicpc.net/problem/1058)<br />[BOJ 2193](https://www.acmicpc.net/problem/2193)| **22**<br />[BOJ 1325](https://www.acmicpc.net/problem/1325)<br />[BOJ 1743](https://www.acmicpc.net/problem/1743)<br />[BOJ 1916](https://www.acmicpc.net/problem/1916)| **23** | **24** |
 | **25** | **26** | **27** | **28** | **29** | **30** |        |
 
 
