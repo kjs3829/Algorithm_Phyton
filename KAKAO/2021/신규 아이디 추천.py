@@ -1,48 +1,47 @@
-# 2021 KAKAO BLIND RECRUITMENT
-# 신규 아이디 추천
-# 정규표현식, 구현
-import sys
 import re
 
-new_id = sys.stdin.readline()
 
-# 1단계
-tmp = new_id.lower()
+def solution(new_id):
 
-# 2단계
-id = ''
-for c in tmp:
-    if 'a' <= c <= 'z' or '0' <= c <= '9' or c == '-' or c == '_' or c =='.':
-        id += c
+    # 1단계
+    tmp = new_id.lower()
 
-# 3단계
-r = re.compile('[..]+')
-id = r.sub('.', id)
-
-# 4단계
-if len(id) > 1:
-    if id[0] == '.':
-        id = id[1:]
-    elif id[-1] == '.':
-        id = id[:-1]
-if id == '.':
+    # 2단계
     id = ''
+    for c in tmp:
+        if 'a' <= c <= 'z' or '0' <= c <= '9' or c == '-' or c == '_' or c =='.':
+            id += c
 
-# 5단계
-if len(id) == 0:
-    id = 'a'
+    # 3단계
+    r = re.compile('[..]+')
+    id = r.sub('.', id)
 
-# 6단계
-if len(id) > 15:
-    id = id[:15]
-if len(id) > 1:
-    if id[0] == '.':
-        id = id[1:]
-    elif id[-1] == '.':
-        id = id[:-1]
-if id == '.':
-    id = ''
+    # 4단계
+    if len(id) > 1:
+        if id[0] == '.':
+            id = id[1:]
+        elif id[-1] == '.':
+            id = id[:-1]
+    if id == '.':
+        id = ''
 
-# 7단계
-if len(id) <= 2:
-    id += id[-1] * (3 - len(id))
+    # 5단계
+    if len(id) == 0:
+        id = 'a'
+
+    # 6단계
+    if len(id) > 15:
+        id = id[:15]
+    if len(id) > 1:
+        if id[0] == '.':
+            id = id[1:]
+        elif id[-1] == '.':
+            id = id[:-1]
+    if id == '.':
+        id = ''
+
+    # 7단계
+    if len(id) <= 2:
+        id += id[-1] * (3 - len(id))
+
+    return id
